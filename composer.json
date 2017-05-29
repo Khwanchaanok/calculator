@@ -1,0 +1,15 @@
+{
+    "name": "Khwanchanok/calculator",
+    "authors": [
+        {
+            "name": "Khwanchanok",
+            "email": "Khwanchanoka57@email.nu.ac.th"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Khwanchanok\\Calculator\\": "src/"
+        }
+    }
+}
